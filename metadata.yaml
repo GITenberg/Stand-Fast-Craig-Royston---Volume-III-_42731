@@ -1,0 +1,30 @@
+_repo: Stand-Fast-Craig-Royston---Volume-III-_42731
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42731-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Black, William
+    birthdate: 1841
+    deathdate: 1898
+    gutenberg_agent_id: '6136'
+    url: http://www.gutenberg.org/2009/agents/6136
+    wikipedia: http://en.wikipedia.org/wiki/William_Black_%28novelist%29
+description: ''
+gutenberg_issued: '2013-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Older people -- Fiction'
+- !lcsh 'Scotland -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Grandfathers -- Fiction'
+title: Stand Fast, Craig-Royston! (Volume III)
+url: http://www.gutenberg.org/ebooks/42731
